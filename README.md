@@ -19,6 +19,8 @@ A music player for Android and iPhone that knows how every song on your own musi
 </td>
 <td width="50%" valign="top">
 
+<img src="https://raw.githubusercontent.com/rendyhd/Vicu/HEAD/extensions/browser/icons/icon128.png" alt="Vicu" width="56">
+
 ### [Vicu](https://vicutodo.app)
 **From a thought to done, on every device.**
 A calm, fast task manager for your own [Vikunja](https://vikunja.io/) server. Catch a task from any app in two seconds and plan your day in Today.
