@@ -10,7 +10,7 @@ I build calm, self-hosted-friendly apps for things I use every day: my music and
 
 ### [Lumae](https://github.com/rendyhd/lumae)
 **Rediscover the music you already own.**
-A music player for Android and iPhone that knows how every song on your own music server sounds. Built for [Navidrome](https://www.navidrome.org/) and [AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI).
+A music player for Android and iPhone that knows how every song on your own music server sounds. Built for [Navidrome](https://www.navidrome.org/) or [Jellyfin](https://jellyfin.org/), with [AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI).
 
 [Website](https://lumaemusic.app) · [GitHub](https://github.com/rendyhd/lumae) · [Plugins](https://github.com/rendyhd/lumae-plugin)
 
@@ -35,7 +35,7 @@ A calm, fast task manager for your own [Vikunja](https://vikunja.io/) server. Ca
 
 ### Support my work
 
-Lumae and Vicu are free and open source. If they make your day a little better, you can support their development:
+Lumae is free, and Vicu is free and open source. If they make your day a little better, you can support their development:
 
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-sponsor-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/rendyhd)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-buy_me_a_coffee-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/rendyhd)
